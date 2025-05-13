@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center" style="font-weight: bold;">Quiz React 📚</h1>
 
-## Getting Started
+<p align="center">
+ • <a href="#sobre">Sobre</a> 
+ • <a href="#funcionalidades">Funcionalidades</a>  
+ • <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>
+ • <a href="#como-usar">Como Usar</a>  
+</p>
 
-First, run the development server:
+<p align="center">
+    <b>Um quiz interativo desenvolvido em React, com tema React, que desafia seus conhecimentos sobre a biblioteca e seus conceitos fundamentais.</b>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+     <a href="PROJECT__URL">🌐 Ver Projeto </a>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h2 id="sobre">💡Sobre</h2>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+O **Quiz React** é um projeto criado para testar e reforçar os conhecimentos de React de forma interativa. A aplicação apresenta perguntas sobre conceitos fundamentais da biblioteca, como hooks, componentes, estados e muito mais. 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<h2 id="funcionalidades">⚡ Funcionalidades</h2>
 
-## Learn More
+- Sistema de perguntas e respostas dinâmico.
+- Feedback imediato sobre acertos e erros.
+- Pontuação exibida ao final de cada rodada.
+- Layout responsivo e intuitivo.
 
-To learn more about Next.js, take a look at the following resources:
+<h2 id="tecnologias-utilizadas">💻 Tecnologias Utilizadas</h2>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **React**
+- **JavaScript (ES6+)**
+- **CSS3**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<h2 id="como-usar">📚 Como Usar</h2>
 
-## Deploy on Vercel
+<h3>1. Acesse o projeto:</h3>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Abra o link do projeto para iniciar o quiz.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<h3>2. Responda às perguntas:</h3>
+
+- Leia cada pergunta atentamente e selecione a alternativa correta.
+- Receba feedback imediato sobre a resposta.
+
+<h3>3. Confira sua pontuação:</h3>
+
+- Ao final do quiz, veja sua pontuação e revise as perguntas respondidas.
+
+<p align="center">
+  <b>Desafie-se e teste seus conhecimentos sobre React!</b>
+</p>
