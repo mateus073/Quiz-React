@@ -17,7 +17,7 @@
 
 <h2 id="sobre">💡Sobre</h2>
 
-O **Quiz React** é um projeto criado para testar e reforçar os conhecimentos de React de forma interativa. A aplicação apresenta perguntas sobre conceitos fundamentais da biblioteca, como hooks, componentes, estados e muito mais. 
+O **Quiz React** é um projeto criado para testar e reforçar os conhecimentos de React de forma interativa. A aplicação apresenta perguntas sobre conceitos fundamentais da biblioteca, como hooks, componentes, sttates e muito mais. 
 
 <h2 id="funcionalidades">⚡ Funcionalidades</h2>
 
@@ -29,8 +29,9 @@ O **Quiz React** é um projeto criado para testar e reforçar os conhecimentos d
 <h2 id="tecnologias-utilizadas">💻 Tecnologias Utilizadas</h2>
 
 - **React**
-- **JavaScript (ES6+)**
-- **CSS3**
+- **Tailwind**
+- **TypeScript**
+- **Next**
 
 <h2 id="como-usar">📚 Como Usar</h2>
 
