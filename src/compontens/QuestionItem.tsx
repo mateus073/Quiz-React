@@ -2,9 +2,9 @@ import { Question } from "@/types/Question"
 import { useState } from "react";
 
 type Props = {
-    question: Question;
-    count: number;
-    onAnswer: (answer: number) => void;
+    question: Question; //a questao da vez
+    count: number; // exibe numero da questao atual 
+    onAnswer: (answer: number) => void; //
 }
 
 
@@ -16,6 +16,7 @@ export const QuestionItem = ({ question, count, onAnswer }: Props) => {
         if (selectedAnswer === null) {
             setSelectAnswer(key)
 
+            // passa pra proxima questao e reseta a questao selecionada
             setTimeout(() => {
                 onAnswer(key)
                 setSelectAnswer(null)
