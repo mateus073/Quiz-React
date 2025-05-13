@@ -29,9 +29,9 @@ function Page() {
 
   // funcao pra reiniciar o quiz
   const resetQuiz = () => {
-    setAnswers([]); // passa array vazio
-    setCurrentQuest(0); // pega primeira pergunta
-    setShowResult(false); // tira a exibiçao dos resultados
+    setAnswers([]); 
+    setCurrentQuest(0); 
+    setShowResult(false); 
   }
 
 
